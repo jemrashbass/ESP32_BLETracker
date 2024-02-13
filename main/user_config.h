@@ -2,7 +2,7 @@
 #define _USER_CONFIG_H_
 
 #define LOCATION "home"
-#define GATEWAY_NAME "BLETracker"
+#define GATEWAY_NAME "Jem_BLETracker"
 
 // Wi-Fi credentials
 #define WIFI_SSID     "HealthDataInsight"

@@ -5,8 +5,8 @@
 #define GATEWAY_NAME "BLETracker"
 
 // Wi-Fi credentials
-#define WIFI_SSID     "YOUR_WIFI_SSID"
-#define WIFI_PASSWORD "YOUR_WIFI_PASSWORD"
+#define WIFI_SSID     "HealthDataInsight"
+#define WIFI_PASSWORD "qu1ckstartgu1de"
 
 /*Set to false to assign manually an IP to the BLETracker*/
 #define USE_DHCP true
@@ -19,9 +19,9 @@
 #endif
 
 // MQTT
-#define MQTT_USERNAME     "YOUR_MQTT_USERNAME"
-#define MQTT_PASSWORD     "YOUR_MQTT_PASSWORD"
-#define MQTT_SERVER       "YOUR_MQTT_SERVER_IP_ADDRESS"
+#define MQTT_USERNAME     "jem"
+#define MQTT_PASSWORD     "Th1spassw0rd"
+#define MQTT_SERVER       "10.0.1.30"
 #define MQTT_SERVER_PORT  1883
 
 #define WEBSERVER_USER        "admin"
